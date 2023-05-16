@@ -1,0 +1,53 @@
+#namePart{
+    font-family:"Ubuntu";
+    font-size: 25px;
+}
+.section-img img{
+    float: left;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.section-img p{
+    font-family:"Ubuntu";
+    font-size: 40px;
+    position: relative;
+    top: 25px;
+    text-align: left;
+    margin-left: 250px;
+}
+#btn1{
+    height: 30px;
+    width: 450px;
+    border-radius: 5px;
+    background-color: green;
+    color: skyblue;
+    font-family: "Ubuntu";
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    position: absolute;
+    bottom: 500px;
+    left: 300px;
+}
+#btn2{
+    height: 30px;
+    width: 450px;
+    border: 5px ;
+    border-radius: 5px;
+    background-color: green;
+    color: skyblue;
+    font-family: "Ubuntu";
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    position: absolute;
+    bottom: 500px;
+    right: 300px;
+}
+body{
+    background:linear-gradient(skyblue, lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
